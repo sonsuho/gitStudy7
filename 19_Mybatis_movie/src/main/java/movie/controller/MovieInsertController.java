@@ -36,6 +36,7 @@ public class MovieInsertController {
 			return getPage;
 			//내가 추가 맨 맨 맨 맨 빼앰 
 			// 수수수수수 수퍼노바
+			//mingon 브랜치에서 작업중
 		}
 		
 		mdao.insertMovie(mb);
